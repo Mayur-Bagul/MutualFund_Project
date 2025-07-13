@@ -1,0 +1,12 @@
+1)Registration
+{
+"token":
+
+"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJtYXl1ckBnYW1pbC5jb20iLCJyb2xlIjoiVVNFUiIsImlhdCI6MTc1MTEwMTU2OCwiZXhwIjoxNzUxNzkyNzY4fQ.e5dlRS0DVfiXqwrbLA5jSFRgMG4Plryv7RvD9Ieqyko"
+}
+
+2) login
+
+{
+    "token": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJtYXl1ckBnYW1pbC5jb20iLCJyb2xlIjoiVVNFUiIsImlhdCI6MTc1MTEwMTc5MywiZXhwIjoxNzUxNzkyOTkzfQ.Sn2UjF5tq00CKe9YbnFz4nH2Epyhd8_LaJA0bN5M4hw"
+}
