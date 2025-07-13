@@ -1,7 +1,7 @@
-💼 Mutual Fund Account Management System (MFAMS)
+## 💼 Mutual Fund Account Management System (MFAMS)
 MFAMS is a full-stack web application that allows users to register, invest in mutual funds, manage their portfolio, and view transaction history. Admins can manage mutual fund schemes, while users can buy/sell units and track performance. Built with Spring Boot, MySQL, React (Vite), and Tailwind CSS.
 
-🎨 MFAMS Frontend
+## 🎨 MFAMS Frontend
 This is the frontend for the Mutual Fund Account Management System (MFAMS), built with React, Vite, and Tailwind CSS. It allows users to register, log in, view mutual funds, invest, and manage their portfolios through a responsive and secure interface.
 
 🧰 Tech Stack
@@ -67,7 +67,7 @@ Deploy the build folder to platforms like Netlify or Vercel.
 
 📁 backend/README.md (Spring Boot + MySQL)
 
-🛠️ MFAMS Backend
+## 🛠️ MFAMS Backend
 This is the backend for the Mutual Fund Account Management System (MFAMS), built with Spring Boot. It provides REST APIs for user registration, authentication, mutual fund management, transaction handling, and portfolio summary.
 
 ⚙️ Tech Stack
@@ -128,14 +128,28 @@ POST	/api/transactions/sell	Sell fund (User)
 GET	/api/transactions	Get user transactions
 GET	/api/transactions/portfolio	View portfolio summary
 
-⏰ NAV Scheduler
+## ⏰ NAV Scheduler
 NAV updates every 30 seconds via a scheduled task that adjusts NAV by a random percentage for demo purposes.
 
-🔐 CORS Config
+## 🔐 CORS Config
 Configured to allow requests from frontend running on port 5173.
 
-📦 Build
+## 📦 Build
 bash
 mvn clean install
 🧪 Test Users
 Use Postman or frontend to test flows.
+
+## 📌 Future Enhancements
+Pagination for transactions
+
+Filtering/sorting of portfolio
+
+Token refresh mechanism
+
+Unit & integration tests
+
+Chart-based NAV tracking
+
+## 🙋 Author
+Developed by Mayur Bagul
