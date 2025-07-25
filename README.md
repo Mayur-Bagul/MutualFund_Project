@@ -87,7 +87,7 @@ Scheduler (for NAV updates)
 Clone the backend repository:
 
 bash
-git clone https://github.com/your-username/mfams-backend.git
+git clone https://github.com/mayur-bagul/mfams-backend.git
 cd mfams-backend
 Configure MySQL in src/main/resources/application.properties:
 
