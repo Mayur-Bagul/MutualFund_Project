@@ -21,7 +21,7 @@ JWT Authentication
 Clone the frontend repository and navigate into it:
 
 bash
-git clone https://github.com/your-username/mfams-frontend.git
+git clone https://github.com/mayur-bagul/mfams-frontend.git
 cd mfams-frontend
 Install dependencies:
 
